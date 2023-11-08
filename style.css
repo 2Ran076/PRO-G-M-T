@@ -2,6 +2,20 @@
     width: 70%;
     margin: 0 auto;
 }
-.Turan-Profiel{
-    border-style: solid 3px black;
+.Turan-profiel{
+    border: 5px solid;
+    border-color: black;
+    border-radius: 8px;
+}
+.text-turan{
+    padding-left: 15px;
+}
+.Marouane-profiel{
+    border: 5px solid;
+    border-color: black;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.Marouane-text{
+    padding-left: 15px;
 }
